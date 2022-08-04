@@ -1,0 +1,663 @@
+date: 2013/04/07 18:53:00.299
+latitude: 39.99983907211572
+longitude: 116.3260259013623
+accuracy: 10.0
+altitude: 40.5999755859375
+time: 1365331981000
+speed: 2.8773
+bearing: 94.0
+provider: gps
+
+date: 2013/04/07 18:53:01.301
+latitude: 39.999832031317055
+longitude: 116.3260639552027
+accuracy: 10.0
+altitude: 40.4000244140625
+time: 1365331982000
+speed: 2.31435
+bearing: 100.0
+provider: gps
+
+date: 2013/04/07 18:53:02.216
+latitude: 39.9998228950426
+longitude: 116.32608675397933
+accuracy: 10.0
+altitude: 40.29998779296875
+time: 1365331983000
+speed: 1.1259
+bearing: 105.0
+provider: gps
+
+date: 2013/04/07 18:53:03.307
+latitude: 39.99983027111739
+longitude: 116.32612137123942
+accuracy: 10.0
+altitude: 39.79998779296875
+time: 1365331984000
+speed: 1.18845
+bearing: 111.0
+provider: gps
+
+date: 2013/04/07 18:53:04.289
+latitude: 39.999826457351446
+longitude: 116.3261469360441
+accuracy: 10.0
+altitude: 40.20001220703125
+time: 1365331985000
+speed: 2.5645502
+bearing: 110.0
+provider: gps
+
+date: 2013/04/07 18:53:05.300
+latitude: 39.99981891363859
+longitude: 116.32618549279869
+accuracy: 10.0
+altitude: 40.70001220703125
+time: 1365331986000
+speed: 3.2526
+bearing: 119.0
+provider: gps
+
+date: 2013/04/07 18:53:06.302
+latitude: 39.99981053173542
+longitude: 116.32622044533491
+accuracy: 10.0
+altitude: 40.5999755859375
+time: 1365331987000
+speed: 2.7522
+bearing: 110.0
+provider: gps
+
+date: 2013/04/07 18:53:07.314
+latitude: 39.9998088972643
+longitude: 116.3262642826885
+accuracy: 10.0
+altitude: 40.29998779296875
+time: 1365331988000
+speed: 2.5645502
+bearing: 104.0
+provider: gps
+
+date: 2013/04/07 18:53:08.213
+latitude: 39.99979808460921
+longitude: 116.32630225270987
+accuracy: 10.0
+altitude: 39.5999755859375
+time: 1365331989000
+speed: 2.4394498
+bearing: 100.0
+provider: gps
+
+date: 2013/04/07 18:53:09.324
+latitude: 39.99978919979185
+longitude: 116.32633360102773
+accuracy: 10.0
+altitude: 39.4000244140625
+time: 1365331990000
+speed: 2.3769
+bearing: 95.0
+provider: gps
+
+date: 2013/04/07 18:53:11.222
+latitude: 39.99980030581355
+longitude: 116.32640308700502
+accuracy: 10.0
+altitude: 39.0
+time: 1365331992000
+speed: 3.44025
+bearing: 81.0
+provider: gps
+
+date: 2013/04/07 18:53:12.233
+latitude: 39.99980902299285
+longitude: 116.32645145058632
+accuracy: 10.0
+altitude: 39.4000244140625
+time: 1365331993000
+speed: 3.94065
+bearing: 83.0
+provider: gps
+
+date: 2013/04/07 18:53:13.242
+latitude: 39.99981212429702
+longitude: 116.32650182582438
+accuracy: 10.0
+altitude: 39.70001220703125
+time: 1365331994000
+speed: 3.44025
+bearing: 82.0
+provider: gps
+
+date: 2013/04/07 18:53:14.247
+latitude: 39.99981308821589
+longitude: 116.32653820328414
+accuracy: 10.0
+altitude: 39.9000244140625
+time: 1365331995000
+speed: 2.2518
+bearing: 87.0
+provider: gps
+
+date: 2013/04/07 18:53:15.259
+latitude: 39.999814722687006
+longitude: 116.32657181471586
+accuracy: 10.0
+altitude: 39.70001220703125
+time: 1365331996000
+speed: 2.18925
+bearing: 91.0
+provider: gps
+
+date: 2013/04/07 18:53:16.348
+latitude: 39.999810741283
+longitude: 116.32660651579499
+accuracy: 10.0
+altitude: 39.9000244140625
+time: 1365331997000
+speed: 2.5645502
+bearing: 94.0
+provider: gps
+
+date: 2013/04/07 18:53:18.229
+latitude: 39.9998057121411
+longitude: 116.32667415775359
+accuracy: 10.0
+altitude: 40.0999755859375
+time: 1365331999000
+speed: 1.93905
+bearing: 103.0
+provider: gps
+
+date: 2013/04/07 18:53:19.241
+latitude: 39.99981044791639
+longitude: 116.32671003229916
+accuracy: 10.0
+altitude: 40.20001220703125
+time: 1365332000000
+speed: 2.5645502
+bearing: 97.0
+provider: gps
+
+date: 2013/04/07 18:53:20.251
+latitude: 39.999802694655955
+longitude: 116.3267513550818
+accuracy: 10.0
+altitude: 40.4000244140625
+time: 1365332001000
+speed: 3.06495
+bearing: 95.0
+provider: gps
+
+date: 2013/04/07 18:53:21.305
+latitude: 39.999799551442266
+longitude: 116.32679209113121
+accuracy: 10.0
+altitude: 40.5999755859375
+time: 1365332002000
+speed: 2.31435
+bearing: 95.0
+provider: gps
+
+date: 2013/04/07 18:53:22.210
+latitude: 39.999793474562466
+longitude: 116.32682972587645
+accuracy: 10.0
+altitude: 40.70001220703125
+time: 1365332003000
+speed: 3.06495
+bearing: 89.0
+provider: gps
+
+date: 2013/04/07 18:53:23.223
+latitude: 39.999801688827574
+longitude: 116.32687079720199
+accuracy: 10.0
+altitude: 40.79998779296875
+time: 1365332004000
+speed: 2.81475
+bearing: 89.0
+provider: gps
+
+date: 2013/04/07 18:53:24.424
+latitude: 39.9994512
+longitude: 116.3264233
+accuracy: 40.5
+altitude: 0.0
+time: 1365332004411
+speed: 0.0
+bearing: 0.0
+provider: network
+
+date: 2013/04/07 18:53:24.240
+latitude: 39.99980722088367
+longitude: 116.32690055295825
+accuracy: 10.0
+altitude: 40.9000244140625
+time: 1365332005000
+speed: 2.31435
+bearing: 87.0
+provider: gps
+
+date: 2013/04/07 18:53:25.240
+latitude: 39.99981237575412
+longitude: 116.3269360922277
+accuracy: 10.0
+altitude: 41.0999755859375
+time: 1365332006000
+speed: 2.6271
+bearing: 84.0
+provider: gps
+
+
+date: 2013/04/07 18:53:26.249
+latitude: 39.99981162138283
+longitude: 116.32696651853621
+accuracy: 10.0
+altitude: 41.0999755859375
+time: 1365332007000
+speed: 2.18925
+bearing: 85.0
+provider: gps
+
+
+date: 2013/04/07 18:53:27.260
+latitude: 39.99981660861522
+longitude: 116.32700775749981
+accuracy: 10.0
+altitude: 41.29998779296875
+time: 1365332008000
+speed: 3.44025
+bearing: 73.0
+provider: gps
+
+
+date: 2013/04/07 18:53:28.267
+latitude: 39.99983006156981
+longitude: 116.32704941555858
+accuracy: 10.0
+altitude: 41.4000244140625
+time: 1365332009000
+speed: 2.68965
+bearing: 71.0
+provider: gps
+
+date: 2013/04/07 18:53:29.272
+latitude: 39.99984850175679
+longitude: 116.32710481993854
+accuracy: 10.0
+altitude: 41.20001220703125
+time: 1365332010000
+speed: 2.81475
+bearing: 76.0
+provider: gps
+
+date: 2013/04/07 18:53:30.278
+latitude: 39.99986455310136
+longitude: 116.32715662010014
+accuracy: 10.0
+altitude: 41.29998779296875
+time: 1365332011000
+speed: 3.2526
+bearing: 75.0
+provider: gps
+
+
+date: 2013/04/07 18:53:31.307
+latitude: 39.99988269992173
+longitude: 116.3272104319185
+accuracy: 10.0
+altitude: 41.5999755859375
+time: 1365332012000
+speed: 4.0032
+bearing: 76.0
+provider: gps
+
+
+date: 2013/04/07 18:53:32.218
+latitude: 39.999888190068305
+longitude: 116.32724965922534
+accuracy: 10.0
+altitude: 41.79998779296875
+time: 1365332013000
+speed: 3.44025
+bearing: 91.0
+provider: gps
+
+
+date: 2013/04/07 18:53:33.325
+latitude: 39.99988416675478
+longitude: 116.32729475386441
+accuracy: 10.0
+altitude: 42.70001220703125
+time: 1365332014000
+speed: 2.502
+bearing: 91.0
+provider: gps
+
+
+date: 2013/04/07 18:53:35.260
+latitude: 39.999880604445934
+longitude: 116.32737765088677
+accuracy: 10.0
+altitude: 43.5
+time: 1365332016000
+speed: 2.4394498
+bearing: 85.0
+provider: gps
+
+
+date: 2013/04/07 18:53:36.258
+latitude: 39.99987792223692
+longitude: 116.32741000503302
+accuracy: 10.0
+altitude: 43.79998779296875
+time: 1365332017000
+speed: 2.502
+bearing: 84.0
+provider: gps
+
+date: 2013/04/07 18:53:36.642
+latitude: 39.9996172
+longitude: 116.3265463
+accuracy: 63.263
+altitude: 0.0
+time: 1365332016630
+speed: 0.0
+bearing: 0.0
+provider: network
+
+date: 2013/04/07 18:53:37.280
+latitude: 39.99988324474543
+longitude: 116.32745124399662
+accuracy: 10.0
+altitude: 44.0
+time: 1365332018000
+speed: 3.1900501
+bearing: 80.0
+provider: gps
+
+
+date: 2013/04/07 18:53:38.282
+latitude: 39.99989585950971
+longitude: 116.32750027813017
+accuracy: 10.0
+altitude: 44.29998779296875
+time: 1365332019000
+speed: 3.69045
+bearing: 88.0
+provider: gps
+
+
+date: 2013/04/07 18:53:39.292
+latitude: 39.99989338684827
+longitude: 116.32754193618894
+accuracy: 10.0
+altitude: 44.5999755859375
+time: 1365332020000
+speed: 3.0024002
+bearing: 93.0
+provider: gps
+
+
+date: 2013/04/07 18:53:40.303
+latitude: 39.99989623669535
+longitude: 116.32757957093418
+accuracy: 10.0
+altitude: 44.70001220703125
+time: 1365332021000
+speed: 3.3776999
+bearing: 88.0
+provider: gps
+
+
+date: 2013/04/07 18:53:41.326
+latitude: 39.999894141219556
+longitude: 116.32762449793518
+accuracy: 10.0
+altitude: 44.29998779296875
+time: 1365332022000
+speed: 3.6279001
+bearing: 96.0
+provider: gps
+
+
+date: 2013/04/07 18:53:43.219
+latitude: 39.99990533106029
+longitude: 116.32769557647407
+accuracy: 10.0
+altitude: 43.70001220703125
+time: 1365332024000
+speed: 2.4394498
+bearing: 82.0
+provider: gps
+
+
+date: 2013/04/07 18:53:44.228
+latitude: 39.999919245019555
+longitude: 116.32772583514452
+accuracy: 10.0
+altitude: 43.70001220703125
+time: 1365332025000
+speed: 1.56375
+bearing: 73.0
+provider: gps
+
+
+date: 2013/04/07 18:53:45.251
+latitude: 39.99993303325027
+longitude: 116.32773723453283
+accuracy: 10.0
+altitude: 43.79998779296875
+time: 1365332026000
+speed: 1.18845
+bearing: 50.0
+provider: gps
+
+
+date: 2013/04/07 18:53:46.262
+latitude: 39.99994598329067
+longitude: 116.3277559261769
+accuracy: 10.0
+altitude: 43.70001220703125
+time: 1365332027000
+speed: 1.7514
+bearing: 51.0
+provider: gps
+
+
+date: 2013/04/07 18:53:47.266
+latitude: 39.999951515346766
+longitude: 116.32778308354318
+accuracy: 10.0
+altitude: 43.5999755859375
+time: 1365332028000
+speed: 2.0016
+bearing: 57.0
+provider: gps
+
+
+date: 2013/04/07 18:53:48.300
+latitude: 39.999962537549436
+longitude: 116.3278132583946
+accuracy: 10.0
+altitude: 43.5
+time: 1365332029000
+speed: 2.31435
+bearing: 57.0
+provider: gps
+
+
+date: 2013/04/07 18:53:49.225
+latitude: 39.999973685480654
+longitude: 116.32784058339894
+accuracy: 10.0
+altitude: 43.29998779296875
+time: 1365332030000
+speed: 2.18925
+bearing: 60.0
+provider: gps
+
+
+date: 2013/04/07 18:53:50.208
+latitude: 39.999983198940754
+longitude: 116.32786757312715
+accuracy: 10.0
+altitude: 43.20001220703125
+time: 1365332031000
+speed: 2.18925
+bearing: 60.0
+provider: gps
+
+
+date: 2013/04/07 18:53:51.273
+latitude: 40.00000285450369
+longitude: 116.32789841853082
+accuracy: 10.0
+altitude: 43.0999755859375
+time: 1365332032000
+speed: 2.31435
+bearing: 57.0
+provider: gps
+
+
+date: 2013/04/07 18:53:52.301
+latitude: 40.000030347146094
+longitude: 116.32793513126671
+accuracy: 10.0
+altitude: 43.0
+time: 1365332033000
+speed: 3.0024002
+bearing: 43.0
+provider: gps
+
+
+date: 2013/04/07 18:53:53.309
+latitude: 40.00005251727998
+longitude: 116.32795315235853
+accuracy: 10.0
+altitude: 42.70001220703125
+time: 1365332034000
+speed: 1.6263
+bearing: 40.0
+provider: gps
+
+
+date: 2013/04/07 18:53:54.222
+latitude: 40.000048535875976
+longitude: 116.32799355313182
+accuracy: 10.0
+altitude: 42.9000244140625
+time: 1365332035000
+speed: 1.6263
+bearing: 58.0
+provider: gps
+
+
+date: 2013/04/07 18:53:55.225
+latitude: 40.00003977678716
+longitude: 116.32802775129676
+accuracy: 10.0
+altitude: 42.9000244140625
+time: 1365332036000
+speed: 2.5645502
+bearing: 77.0
+provider: gps
+
+
+date: 2013/04/07 18:53:56.259
+latitude: 40.00001157168299
+longitude: 116.32808508351445
+accuracy: 10.0
+altitude: 42.79998779296875
+time: 1365332037000
+speed: 4.5661497
+bearing: 132.0
+provider: gps
+
+
+date: 2013/04/07 18:53:57.275
+latitude: 39.99998118728399
+longitude: 116.32815264165401
+accuracy: 10.0
+altitude: 42.5
+time: 1365332038000
+speed: 4.5661497
+bearing: 128.0
+provider: gps
+
+
+date: 2013/04/07 18:53:58.284
+latitude: 39.9999550357461
+longitude: 116.32818415760994
+accuracy: 10.0
+altitude: 42.5
+time: 1365332039000
+speed: 4.19085
+bearing: 148.0
+provider: gps
+
+
+date: 2013/04/07 18:53:59.300
+latitude: 39.999932614155114
+longitude: 116.32819161750376
+accuracy: 10.0
+altitude: 42.4000244140625
+time: 1365332040000
+speed: 1.7514
+bearing: 158.0
+provider: gps
+
+
+date: 2013/04/07 18:54:00.313
+latitude: 39.99992104712874
+longitude: 116.3281724229455
+accuracy: 15.0
+altitude: 42.20001220703125
+time: 1365332041000
+speed: 1.06335
+bearing: 183.0
+provider: gps
+
+
+date: 2013/04/07 18:54:01.210
+latitude: 39.99989175237715
+longitude: 116.32815507240593
+accuracy: 15.0
+altitude: 42.0
+time: 1365332042000
+speed: 2.502
+bearing: 182.0
+provider: gps
+
+
+date: 2013/04/07 18:54:02.215
+latitude: 39.99986719340086
+longitude: 116.3281444273889
+accuracy: 15.0
+altitude: 42.0
+time: 1365332043000
+speed: 0.81315
+bearing: 188.0
+provider: gps
+
+
+date: 2013/04/07 18:54:03.268
+latitude: 39.99983471352607
+longitude: 116.32815750315785
+accuracy: 15.0
+altitude: 42.20001220703125
+time: 1365332044000
+speed: 0.75060004
+bearing: 180.0
+provider: gps
+
+
+date: 2013/04/07 18:54:03.697
+latitude: 39.9996756
+longitude: 116.3269179
+accuracy: 66.014
+altitude: 0.0
+time: 1365332043581
+speed: 0.0
+bearing: 0.0
+provider: network
